@@ -1,0 +1,2 @@
+# Asteroids
+Simple ploject I made to help a friend with his OOP assignment. Basically when running the program from the command line, it takes a number as an argument which will be the ammount of asteroids on screen, I made a pool of asteroids to reuse the ones that went out of the screen this simple program was made in 2-3 hours including the explanation of the code to my friend. He had to use gfx: A Simple Graphics Library (V2), I used SDL2 because I use windows.
